@@ -1,4 +1,14 @@
-### Hi there 👋
+### Peace be upon you! 👋
+
+#### 📚 I'm pursuing a Data Science Specialist degree at Mackenzie Presbyterian University
+
+#### 💡 I went to Law School at UFPB but fell in love with tech throughout my course. Now I'm looking forward to study Distributed Computing on a Master's level at UFPB.
+
+#### 🌱 I am also a Christian Reformed Theologian. I expect to grab my Theology Bachelor degree on July 2021.
+
+#### You can reach me on Instagram @gabrielmdeirs
+
+#### My LinkedIn profile is /in/gabriel-medeiros-do-nascimento
 
 <!--
 **gmnmedeiros/gmnmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
