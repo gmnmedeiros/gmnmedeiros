@@ -1,12 +1,14 @@
 ### Peace be upon you! 👋
 
-#### 📚 I'm pursuing a Data Science Specialist degree at Mackenzie Presbyterian University
+#### 📚 I'm a Computing Master's student @ UFPB. I research mostly AI, Smart Cities and things as such.
 
-#### 💡 I went to Law School at UFPB but fell in love with tech throughout my course. Now I'm looking forward to study Distributed Computing on a Master's level at UFPB.
+#### 📚 I'm also pursuing a Data Science Specialist degree at Mackenzie Presbyterian University
 
-#### 🌱 I am also a Christian Reformed Theologian. I expect to grab my Theology Bachelor degree on July 2021.
+#### 💡 Fun fact: I went to Law School at UFPB but fell in love with tech throughout my course. 
 
-#### You can reach me on Instagram @gabrielmdeirs
+#### 🌱 Another fun fact: I am also a Christian Reformed Theologian. I expect to grab my Theology Bachelor degree on July 2021.
+
+#### You can reach me on Instagram @gabrielmdedeiros_n
 
 #### My LinkedIn profile is /in/gabriel-medeiros-do-nascimento
 
