@@ -1,6 +1,6 @@
 ### Peace be upon you! 👋
 
-#### 📚 I'm a Computing Master's student @ UFPB. I research mostly AI, Smart Cities and things as such.
+#### 📚 I study Distributed Computing at a Master's level @ UFPB M. Sc. Program. I research mostly AI, Smart Cities and things as such.
 
 #### 📚 I'm also pursuing a Data Science Specialist degree at Mackenzie Presbyterian University
 
