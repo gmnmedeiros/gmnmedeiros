@@ -6,7 +6,7 @@
 
 #### 💡 Fun fact: I went to Law School at UFPB but fell in love with tech throughout my course. 
 
-#### 🌱 Another fun fact: I am also a Christian Reformed Theologian. I expect to grab my Theology Bachelor degree on July 2021.
+#### 🌱 Another fun fact: I am also a Christian Reformed Theologian. I love the relationship between Philosophy, Technology and the Holy Scriptures.
 
 #### You can reach me on Instagram @gabrielmdedeiros_n
 
