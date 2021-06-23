@@ -1,16 +1,15 @@
 ### Peace be upon you! 👋
 
-#### 📚 I study Distributed Computing at a Master's level @ UFPB M. Sc. Program. I research mostly AI, Smart Cities and things as such.
+#### 📚 I study Distributed Computing at a Master's level @ UFPB M. Sc. Program. I research mostly Data Engineering, Data Science, Smart Cities and things as such.
 
-#### 📚 I'm also pursuing a Data Science Specialist degree at Mackenzie Presbyterian University
+#### 📚 I'm also finishing a Big Data Analytics Specialist degree at Mackenzie Presbyterian University
 
 #### 💡 Fun fact: I went to Law School at UFPB but fell in love with tech throughout my course. 
 
-#### 🌱 Another fun fact: I am also a Christian Reformed Theologian. I love the relationship between Philosophy, Technology and the Holy Scriptures.
-
-#### You can reach me on Instagram @gabrielmdedeiros_n
+#### Sometimes I write on Medium @ gmnmedeiros.medium.com
 
 #### My LinkedIn profile is /in/gabriel-medeiros-do-nascimento
+
 
 <!--
 **gmnmedeiros/gmnmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
