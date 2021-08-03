@@ -2,9 +2,7 @@
 
 #### 📚 I study Distributed Computing at a Master's level @ UFPB M. Sc. Program. I research mostly Data Engineering, Data Science, Smart Cities and things as such.
 
-#### 📚 I'm also finishing a Big Data Analytics Specialist degree at Mackenzie Presbyterian University
-
-#### 💡 Fun fact: I went to Law School at UFPB but fell in love with tech throughout my course. 
+#### 📚 I'm also finishing a Big Data Analytics Specialist degree at Mackenzie Presbyterian University 
 
 #### Sometimes I write on Medium @ gmnmedeiros.medium.com
 
