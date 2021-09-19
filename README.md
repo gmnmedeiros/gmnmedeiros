@@ -1,5 +1,7 @@
 ### Peace be upon you! 👋
 
+#### 📚 I am a Data Enginner that loves working with Python.
+
 #### 📚 I study Distributed Computing at a Master's level @ UFPB M. Sc. Program. I research mostly Data Engineering, Data Science, Smart Cities and things as such.
 
 #### 📚 I'm also finishing a Big Data Analytics Specialist degree at Mackenzie Presbyterian University 
