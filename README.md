@@ -1,10 +1,10 @@
 ### Peace be upon you! 👋
 
-#### 📚 I am a Data Enginner that loves working with Python.
+#### 📚 I work as a Data Engineer with AWS and Azure cloud providers, using Python, Spark, SQL, Terraform, etc.
 
-#### 📚 I study Distributed Computing at a Master's level @ UFPB M. Sc. Program. I research mostly Data Engineering, Data Science, Smart Cities and things as such.
+#### 📚 I study Computer Science at a Master's level @ UFPB M. Sc. Program.
 
-#### 📚 I'm also finishing a Big Data Analytics Specialist degree at Mackenzie Presbyterian University 
+#### 📚 I've completed a Big Data Analytics Specialist degree at Mackenzie Presbyterian University 
 
 #### Sometimes I write on Medium @ gmnmedeiros.medium.com
 
