@@ -1,12 +1,12 @@
-### Peace be upon you! 👋
+## Peace be upon you! 👋🍃
 
-#### 📚 I work as a Data Engineer with AWS and Azure cloud providers, using Python, Spark, SQL, Terraform, etc.
+### 👨🏽‍💻 Currently working with Data Engineering, but very curious about all things software related
 
-#### 📚 I study Computer Science at a Master's level @ UFPB M. Sc. Program.
+#### 💻 I study Computer Science at a Master's level @ UFPB M. Sc. Program.
 
-#### 📚 I've completed a Big Data Analytics Specialist degree at Mackenzie Presbyterian University 
+#### 📊 I've completed a Big Data Analytics Specialist degree at Mackenzie Presbyterian University
 
-#### Sometimes I write on Medium @ gmnmedeiros.medium.com
+#### 👔 Fun fact: Although I'm a software engineer, I went to Law School
 
 #### My LinkedIn profile is /in/gabriel-medeiros-do-nascimento
 
