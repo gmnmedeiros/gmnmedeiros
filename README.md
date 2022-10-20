@@ -1,4 +1,4 @@
-## Peace be upon you! 👋🍃
+## Peace be upon you! 👋
 
 ### 👨🏽‍💻 Currently working with Data Engineering, but very curious about all things software related
 
