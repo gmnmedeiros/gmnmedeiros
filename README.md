@@ -6,7 +6,7 @@
 
 #### 📊 I've completed a Big Data Analytics Specialist degree at Mackenzie Presbyterian University
 
-#### 👔 Fun fact: Although I'm a software engineer, I went to Law School
+#### 👔 Fun fact: Although I'm a software engineer, I went to Law School. I became a lawyer in 2019, but I started programming in 2017.
 
 #### My LinkedIn profile is /in/gabriel-medeiros-do-nascimento
 
